@@ -1,10 +1,10 @@
-<h3 align="left">Olá👋🏼, sou Daniel Ismael.</h3>
+<h3 align="left">Olá👋🏼, sou Daniel</h3>
 
-<p align="left">Desenvolvedor Fullstack, com experiência em desenvolvimento web, gestão de projetos, avaliação técnica e supervisão de estagiários e desenvolvedores juniores. Me reconheço como entusiasta da tecnologia, estou em contato com desenvolvimento desde meus 12 anos, mas profissionalmente desde 2020.</p>
+<p align="left">Desenvolvedor Fullstack Sênior</p>
 
-<p align="left">Me considero ágil e consistente, tenho facilidade com aprendizado e me adaptar a qualquer mudança, pronto para superar qualquer desafio! </p>
+<p align="left">Minha jornada na tecnologia começou cedo, aos 12 anos, quando descobri a programação. Desde então, meu fascínio pelo desenvolvimento de software só cresceu. Com ampla experiência profissional, participei de projetos diversos, desde a criação de sites institucionais e beneficentes até sistemas complexos para RH, contabilidade, vendas, cotações, relatórios laboratoriais e APIs REST robustas.</p>
 
-<p align="left">Se eu pudesse me definir em três palavras, certamente seriam: resiliente, esforçado e integro.</p>
+<p align="left">Ao longo dessa trajetória, atuei na liderança técnica de equipes e na gestão do setor web de uma agência de publicidade. Nessa posição, tive a oportunidade de orientar programadores e estagiários, garantindo entregas de alta qualidade, alinhadas às melhores práticas do mercado e sempre focadas em agregar valor ao negócio.</p>
 
 <h3 align="left">Front-end</h3>
 <hr style="margin: 0 0 1rem">
